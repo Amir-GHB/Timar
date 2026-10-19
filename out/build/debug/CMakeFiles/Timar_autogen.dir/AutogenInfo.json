@@ -1,0 +1,205 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen",
+	"CMAKE_BINARY_DIR" : "G:/Dev/Timar_reboot/Timar/out/build/debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/Dev/Timar_reboot/Timar/out/build/debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/Dev/Timar_reboot/Timar",
+	"CMAKE_EXECUTABLE" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"G:/Dev/Timar_reboot/Timar/CMakeLists.txt",
+		"G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/4.3.1-msvc1/CMakeSystem.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-Initialize.cmake",
+		"G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/4.3.1-msvc1/CMakeCXXCompiler.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeGenericSystem.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeCXXInformation.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Compiler/MSVC-CXX.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Compiler/MSVC.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC.cmake",
+		"G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/4.3.1-msvc1/CMakeRCCompiler.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeRCInformation.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Linker/MSVC-CXX.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Linker/MSVC.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC-CXX.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5Config.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5Config.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeParseArguments.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeParseArguments.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake",
+		"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeParseArguments.cmake",
+		"D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "G:/Dev/Timar_reboot/Timar",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "Timar_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"G:/Dev/Timar_reboot/Timar/asset.h",
+			"MU",
+			"EWIEGA46WW/moc_asset.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/assetmanager.h",
+			"MU",
+			"EWIEGA46WW/moc_assetmanager.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/maintenanceevent.h",
+			"MU",
+			"EWIEGA46WW/moc_maintenanceevent.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/maintenanceeventwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_maintenanceeventwidget.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/maintenancemanager.h",
+			"MU",
+			"EWIEGA46WW/moc_maintenancemanager.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/maintenanceschedule.h",
+			"MU",
+			"EWIEGA46WW/moc_maintenanceschedule.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/persiancalendarwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_persiancalendarwidget.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/persiandateedit.h",
+			"MU",
+			"EWIEGA46WW/moc_persiandateedit.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/persiandigits.h",
+			"MU",
+			"EWIEGA46WW/moc_persiandigits.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/subasset.h",
+			"MU",
+			"EWIEGA46WW/moc_subasset.cpp",
+			null
+		],
+		[
+			"G:/Dev/Timar_reboot/Timar/tmrhome.h",
+			"MU",
+			"EWIEGA46WW/moc_tmrhome.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/include",
+	"MOC_COMPILATION_FILE" : "G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"G:/Programs/Qt/5.15.3_msvc2019/include",
+		"G:/Programs/Qt/5.15.3_msvc2019/include/QtWidgets",
+		"G:/Programs/Qt/5.15.3_msvc2019/include/QtGui",
+		"G:/Programs/Qt/5.15.3_msvc2019/include/QtCore",
+		"G:/Programs/Qt/5.15.3_msvc2019/mkspecs/win32-msvc"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/Timar_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "G:/Programs/Qt/5.15.3_msvc2019/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "G:/Programs/Qt/5.15.3_msvc2019/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/Timar_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "G:/Dev/Timar_reboot/Timar/asset.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/assetmanager.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/main.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/maintenanceevent.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/maintenanceeventwidget.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/maintenancemanager.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/persiancalendarwidget.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/persiandateedit.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/persiandigits.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/subasset.cpp", "MU", null ],
+		[ "G:/Dev/Timar_reboot/Timar/tmrhome.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

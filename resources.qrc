@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="Vazirmatn-Regular.ttf">resources/fonts/Vazirmatn-Regular.ttf</file>
+        <file alias="Vazirmatn-Medium.ttf">resources/fonts/Vazirmatn-Medium.ttf</file>
+        <file alias="Vazirmatn-SemiBold.ttf">resources/fonts/Vazirmatn-SemiBold.ttf</file>
+    </qresource>
+</RCC>

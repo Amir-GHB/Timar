@@ -1,0 +1,3353 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.28000 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompiler.cmake:115 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:71 (_cmake_find_compiler_path)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "cl.exe"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/cl.exe.com"
+    found: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/cl.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:468 (find_file)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:506 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/"
+    found: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+      ENV{INCLUDE}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\include"
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\ATLMFC\\include"
+        - "D:\\Programs\\VisualStudio\\VC\\Auxiliary\\VS\\include"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.26100.0\\ucrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\um"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\shared"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\winrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.26100.0\\\\cppwinrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36260 for x64
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.51.36260.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/4.3.1-msvc1/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:1347 (message)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Note: including file: G:\\Dev\\Timar_reboot\\Timar\\out\\build\\x64-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Note: including file: "
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:103 (__resolve_linker_path)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.com"
+    found: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.com"
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link.exe"
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lld-link.com"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lld-link.exe"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lld-link"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lld-link.com"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lld-link.exe"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lld-link.com"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lld-link.exe"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lld-link"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.com"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.exe"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/lld-link"
+      - "D:/Programs/VisualStudio/Common7/Tools/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/Tools/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/Tools/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/PuTTY/lld-link.com"
+      - "C:/Program Files/PuTTY/lld-link.exe"
+      - "C:/Program Files/PuTTY/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "C:/Strawberry/c/bin/lld-link.com"
+      - "C:/Strawberry/c/bin/lld-link.exe"
+      - "C:/Strawberry/c/bin/lld-link"
+      - "C:/Strawberry/perl/site/bin/lld-link.com"
+      - "C:/Strawberry/perl/site/bin/lld-link.exe"
+      - "C:/Strawberry/perl/site/bin/lld-link"
+      - "C:/Strawberry/perl/bin/lld-link.com"
+      - "C:/Strawberry/perl/bin/lld-link.exe"
+      - "C:/Strawberry/perl/bin/lld-link"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lld-link.com"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lld-link.exe"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lld-link"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lld-link.com"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lld-link.exe"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lld-link"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/cyrus/.dotnet/tools/lld-link.com"
+      - "C:/Users/cyrus/.dotnet/tools/lld-link.exe"
+      - "C:/Users/cyrus/.dotnet/tools/lld-link"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/lld-link.com"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/lld-link.exe"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/lld-link"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lld-link.com"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lld-link.exe"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link"
+      - "D:/Programs/VisualStudio/VC/vcpkg/lld-link.com"
+      - "D:/Programs/VisualStudio/VC/vcpkg/lld-link.exe"
+      - "D:/Programs/VisualStudio/VC/vcpkg/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.com"
+    found: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "CMAKE_MT"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mt"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt.com"
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt.exe"
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/mt"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/mt.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/mt.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/mt"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/mt.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/mt.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/mt"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/mt.com"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/mt.exe"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/mt"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/mt.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/mt.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/mt"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/mt.com"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/mt.exe"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/mt"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mt.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mt.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/mt"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/mt.com"
+    found: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/mt.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lib"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib.com"
+    found: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC.cmake:596 (enable_language)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC.cmake:569 (__windows_compiler_msvc_enable_rc)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC-CXX.cmake:6 (__windows_compiler_msvc)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeCXXInformation.cmake:48 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "rc"
+    candidate_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "D:/Programs/VisualStudio/Common7/IDE/"
+      - "D:/Programs/VisualStudio/Common7/Tools/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Strawberry/c/bin/"
+      - "C:/Strawberry/perl/site/bin/"
+      - "C:/Strawberry/perl/bin/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/"
+      - "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/cyrus/.dotnet/tools/"
+      - "C:/Users/cyrus/.cmake-deps/cmake/win/x64/bin/"
+      - "C:/Users/cyrus/.cmake-deps/ninja/win/x64/"
+      - "D:/Programs/VisualStudio/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "D:/Programs/VisualStudio/VC/vcpkg/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/sbin/"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/"
+      - "G:/Dev/Timar_reboot/Timar/out/install/x64-debug/bin/"
+      - "G:/Dev/Timar_reboot/Timar/out/install/x64-debug/sbin/"
+      - "G:/Dev/Timar_reboot/Timar/out/install/x64-debug/"
+    searched_directories:
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/rc.com"
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/rc.exe"
+      - "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/rc"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/rc.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/rc.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/rc"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/rc.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/rc.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/rc"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/rc.com"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/rc.exe"
+      - "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/rc"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/rc.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/rc.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/rc"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/rc.com"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/rc.exe"
+      - "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/rc"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/rc.com"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/rc.exe"
+      - "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/rc"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/rc.com"
+    found: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/rc.exe"
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake"
+        - "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/CMakeScratch/TryCompile-os5a3x"
+      binary: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/CMakeScratch/TryCompile-os5a3x"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/CMakeScratch/TryCompile-os5a3x'
+        
+        Run Build Command(s): D:\\PROGRAMS\\VISUALSTUDIO\\COMMON7\\IDE\\COMMONEXTENSIONS\\MICROSOFT\\CMAKE\\Ninja\\ninja.exe -v cmTC_f293d
+        [1/2] D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_MBCS  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_f293d.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_f293d.dir\\ /FS -c D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1951 --intdir=CMakeFiles\\cmTC_f293d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f293d.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_f293d.exe /implib:cmTC_f293d.lib /pdb:cmTC_f293d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Internal/CMakeDetermineLinkerId.cmake:38 (message)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Running the CXX compiler's linker: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.51.36260.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:12 (find_package)"
+    name: "QT"
+    components:
+      -
+        name: "Widgets"
+        required: true
+        found: false
+      -
+        name: "LinguistTools"
+        required: true
+        found: false
+    configs:
+      -
+        filename: "Qt6.cps"
+        kind: "cps"
+      -
+        filename: "qt6.cps"
+        kind: "cps"
+      -
+        filename: "Qt6Config.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6-config.cmake"
+        kind: "cmake"
+      -
+        filename: "Qt5.cps"
+        kind: "cps"
+      -
+        filename: "qt5.cps"
+        kind: "cps"
+      -
+        filename: "Qt5Config.cmake"
+        kind: "cmake"
+      -
+        filename: "qt5-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6"
+        - "Qt5"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/pkgRedirects/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/vcpackages/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TestWindow/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/Roslyn/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Team Tools/DiagnosticsHub/Collector/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/bin/x64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/MSBuild/Current/Bin/amd64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/Tools/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/c/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/site/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Strawberry/perl/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Scripts/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Programs/Python/Python314/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/AppData/Local/Microsoft/WindowsApps/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/cmake/win/x64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/cyrus/.cmake-deps/ninja/win/x64/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/Programs/VisualStudio/VC/vcpkg/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Qt6Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/qt6-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Qt5Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/qt5-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/lib/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/lib/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/lib/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/lib/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/share/cps/Qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/share/cps/qt6.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/share/cps/Qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/share/cps/qt5.cps"
+        mode: "cps"
+        reason: "no_exist"
+    found: null
+    search_context:
+      ENV{PATH}:
+        - "D:\\Programs\\VisualStudio\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\VCPackages"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "D:\\Programs\\VisualStudio\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "D:\\Programs\\VisualStudio\\Team Tools\\DiagnosticsHub\\Collector"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\Extensions\\Microsoft\\CodeCoverage.Console"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "D:\\Programs\\VisualStudio\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\"
+        - "D:\\Programs\\VisualStudio\\Common7\\Tools\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Strawberry\\c\\bin"
+        - "C:\\Strawberry\\perl\\site\\bin"
+        - "C:\\Strawberry\\perl\\bin"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "C:\\Users\\cyrus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "C:\\Users\\cyrus\\.cmake-deps\\cmake\\win\\x64\\bin"
+        - "C:\\Users\\cyrus\\.cmake-deps\\ninja\\win\\x64"
+        - "C:\\Users\\cyrus\\.dotnet\\tools"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "D:\\Programs\\VisualStudio\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "D:\\Programs\\VisualStudio\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake"
+        - "G:/Dev/Timar_reboot/Timar/out/install/x64-debug"
+...

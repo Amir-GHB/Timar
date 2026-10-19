@@ -1,0 +1,470 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.c",
+			"paths" : 
+			[
+				"G:/Dev/Timar_reboot/Timar/.qtcreator/qtc-cmake-presets-ihoFXLqM/Qt-Debug/build/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c",
+				"G:/Dev/Timar_reboot/Timar/.qtcreator/qtc-cmake-presets-ihoFXLqM/Qt-Release/build/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c",
+				"G:/Dev/Timar_reboot/Timar/build-msvc2019/CMakeFiles/ShowIncludes/main.c",
+				"G:/Dev/Timar_reboot/Timar/build/CMakeFiles/ShowIncludes/main.c",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_5_15_3_MSVC2019_x85_64_Debug/CMakeFiles/ShowIncludes/main.c",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_6_11_1_MSVC2022_64bit_Debug/CMakeFiles/ShowIncludes/main.c",
+				"G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/ShowIncludes/main.c",
+				"G:/Dev/Timar_reboot/Timar/out/build/msvc2019/CMakeFiles/ShowIncludes/main.c",
+				"G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/ShowIncludes/main.c"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.c++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.cc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.ch",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.cpp",
+			"paths" : 
+			[
+				"G:/Dev/Timar_reboot/Timar/.qtcreator/qtc-cmake-presets-ihoFXLqM/Qt-Debug/build/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/.qtcreator/qtc-cmake-presets-ihoFXLqM/Qt-Release/build/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/asset.cpp",
+				"G:/Dev/Timar_reboot/Timar/assetmanager.cpp",
+				"G:/Dev/Timar_reboot/Timar/build-msvc2019/CMakeFiles/3.29.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/build-msvc2019/Timar_autogen/EWIEGA46WW/moc_tmrhome.cpp",
+				"G:/Dev/Timar_reboot/Timar/build-msvc2019/Timar_autogen/mocs_compilation.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_5_15_3_MSVC2019_x85_64_Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_5_15_3_MSVC2019_x85_64_Debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_6_11_1_MSVC2022_64bit_Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Timar_autogen/EWIEGA46WW/moc_maintenanceeventwidget.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Timar_autogen/EWIEGA46WW/moc_maintenancemanager.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Timar_autogen/EWIEGA46WW/moc_tmrhome.cpp",
+				"G:/Dev/Timar_reboot/Timar/build/Timar_autogen/mocs_compilation.cpp",
+				"G:/Dev/Timar_reboot/Timar/main.cpp",
+				"G:/Dev/Timar_reboot/Timar/maintenanceevent.cpp",
+				"G:/Dev/Timar_reboot/Timar/maintenanceeventwidget.cpp",
+				"G:/Dev/Timar_reboot/Timar/maintenancemanager.cpp",
+				"G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/4.3.1-msvc1/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/EWIEGA46WW/moc_tmrhome.cpp",
+				"G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/mocs_compilation.cpp",
+				"G:/Dev/Timar_reboot/Timar/out/build/msvc2019/CMakeFiles/4.3.1-msvc1/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/4.3.1-msvc1/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"G:/Dev/Timar_reboot/Timar/persiancalendarwidget.cpp",
+				"G:/Dev/Timar_reboot/Timar/persiandateedit.cpp",
+				"G:/Dev/Timar_reboot/Timar/persiandigits.cpp",
+				"G:/Dev/Timar_reboot/Timar/subasset.cpp",
+				"G:/Dev/Timar_reboot/Timar/tmrhome.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.cxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.h",
+			"paths" : 
+			[
+				"G:/Dev/Timar_reboot/Timar/asset.h",
+				"G:/Dev/Timar_reboot/Timar/assetmanager.h",
+				"G:/Dev/Timar_reboot/Timar/build-msvc2019/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/build-msvc2019/Timar_autogen/include/ui_tmrhome.h",
+				"G:/Dev/Timar_reboot/Timar/build/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_5_15_3_MSVC2019_x85_64_Debug/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/build/Desktop_Qt_6_11_1_MSVC2022_64bit_Debug/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/build/Timar_autogen/include/ui_tmrhome.h",
+				"G:/Dev/Timar_reboot/Timar/maintenanceevent.h",
+				"G:/Dev/Timar_reboot/Timar/maintenanceeventwidget.h",
+				"G:/Dev/Timar_reboot/Timar/maintenancemanager.h",
+				"G:/Dev/Timar_reboot/Timar/maintenanceschedule.h",
+				"G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/include/ui_tmrhome.h",
+				"G:/Dev/Timar_reboot/Timar/out/build/msvc2019/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/out/build/x64-debug/CMakeFiles/ShowIncludes/foo.h",
+				"G:/Dev/Timar_reboot/Timar/persiancalendarwidget.h",
+				"G:/Dev/Timar_reboot/Timar/persiandateedit.h",
+				"G:/Dev/Timar_reboot/Timar/persiandigits.h",
+				"G:/Dev/Timar_reboot/Timar/subasset.h",
+				"G:/Dev/Timar_reboot/Timar/tmrhome.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.h++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.hh",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.hpp",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.hxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.java",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.js",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.jui",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.qml",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.qrc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.qs",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "G:/Dev/Timar_reboot/Timar/*.ui",
+			"paths" : 
+			[
+				"G:/Dev/Timar_reboot/Timar/tmrhome.ui"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/debug/CMakeFiles/4.3.1-msvc1/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/debug/CMakeFiles/4.3.1-msvc1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/debug/CMakeFiles/4.3.1-msvc1/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Linker/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Linker/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Programs/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/GNUInstallDirs.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "G:/Dev/Timar_reboot/Timar/out/build/debug",
+		"source" : "G:/Dev/Timar_reboot/Timar"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

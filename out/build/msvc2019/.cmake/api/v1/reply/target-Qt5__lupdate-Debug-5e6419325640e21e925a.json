@@ -1,0 +1,73 @@
+{
+	"abstract" : true,
+	"artifacts" : 
+	[
+		{
+			"path" : "G:/Programs/Qt/5.15.3_msvc2019/bin/lupdate.exe"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"find_package"
+		],
+		"files" : 
+		[
+			"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake",
+			"G:/Programs/Qt/5.15.3_msvc2019/lib/cmake/Qt5/Qt5Config.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 4
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "Qt5::lupdate::@6890427a1f51a3e7e1df",
+	"imported" : true,
+	"local" : true,
+	"name" : "Qt5::lupdate",
+	"nameOnDisk" : "lupdate.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "EXECUTABLE"
+}

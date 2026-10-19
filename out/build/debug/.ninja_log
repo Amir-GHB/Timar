@@ -1,0 +1,16 @@
+# ninja log v7
+7	282	8132307505673661	G:/Dev/Timar_reboot/Timar/out/build/debug/CMakeFiles/cmake.verify_globs	f13c225f10ef537d
+315	456	8132307508755387	Timar_autogen/timestamp	98de48d873003bb8
+315	456	8132307508755387	Timar_autogen/mocs_compilation.cpp	98de48d873003bb8
+315	456	8132307508755387	G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/timestamp	98de48d873003bb8
+315	456	8132307508755387	G:/Dev/Timar_reboot/Timar/out/build/debug/Timar_autogen/mocs_compilation.cpp	98de48d873003bb8
+457	557	8132307511090982	G:/Dev/Timar_reboot/Timar/Timar_en_US.ts	f353c96d935d5454
+626	1752	8132264243107114	CMakeFiles/Timar.dir/Timar_autogen/mocs_compilation.cpp.obj	cc8a2cae79ab4285
+632	1869	8132264243177119	CMakeFiles/Timar.dir/main.cpp.obj	e24a82fa50794f64
+557	1798	8132307511173314	CMakeFiles/Timar.dir/tmrhome.cpp.obj	221112800fe6c008
+1799	2253	8132307523591928	Timar.exe	9d0764c14aa75914
+298	1006	8132321132312786	build.ninja	7e7a2a3c09217a54
+298	1006	8132321132217573	G:/Dev/Timar_reboot/Timar/out/build/debug/cmake_install.cmake	7e7a2a3c09217a54
+621	2070	8132303887893931	CMakeFiles/Timar.dir/subasset.cpp.obj	da45766791d099cb
+564	1586	8132307511243717	CMakeFiles/Timar.dir/asset.cpp.obj	98e15071d954f88e
+632	2095	8132303887999275	CMakeFiles/Timar.dir/maintenanceevent.cpp.obj	f11c361ef209dc0
